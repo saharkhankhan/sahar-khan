@@ -1,14 +1,14 @@
 @import url('https://fonts.googleapis.com/css?family=Raleway');
 
 body{
-  background: blue;
   font-family: 'Raleway', sans-serif;
-
 }
 
-.content{
-  margin: 40px;
-  background: white;
+.overview{
   height: 100vh;
-  padding: 20px;
+  background-color: blue;
+}
+
+.skills{
+  background-color: red;
 }
